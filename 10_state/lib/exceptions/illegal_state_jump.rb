@@ -1,0 +1,2 @@
+class IllegalStateJumpError < StandardError
+end
